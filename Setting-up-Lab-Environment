@@ -1,0 +1,25 @@
+Setting Up Lab in Windows
+
+Installing Git:
+
+Navigate to 
+http://mirror.linuxtrainingacademy.com/
+
+Navigate to git/Windows
+
+
+Download Git
+
+Run the Installer, all the places we keep default apart from one place i.e. Adjusting your path environment where we select Use Git and optional Unix tools from the windows Command Prompt
+ 
+Installing Oracle Virtual Box:
+
+Installing Vagrant :
+
+Navigate to 
+http://mirror.linuxtrainingacademy.com/
+
+Navigate to vagrant/windows/
+
+Lastly restart your Laptop
+
